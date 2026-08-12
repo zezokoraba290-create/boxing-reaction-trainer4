@@ -1,0 +1,14 @@
+[tool.flet]
+product = "Boxing Reaction Trainer"
+org = "com.yourname"
+build_number = 1
+build_version = "1.0.0"
+
+[tool.flet.app]
+path = "."
+
+[tool.flet.android]
+icon = "assets/icon.png"
+
+[tool.flet.ios]
+icon = "assets/icon.png"
